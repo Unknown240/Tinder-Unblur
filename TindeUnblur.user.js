@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Tinder API Script
-// @namespace    your-namespace
+// @namespace    Unknown240
 // @version      1.0
 // @description  Script to get clean photos of users who liked you on Tinder API
 // @author       Your Name
-// @match        https://example.com/*  // Ganti dengan URL Tinder atau halaman yang sesuai
+// @match        https://tinder.com/
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
